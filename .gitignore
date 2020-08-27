@@ -1,0 +1,6 @@
+*.star
+.Rhistory
+.Rdata
+*.png
+*.pdf
+*.csv

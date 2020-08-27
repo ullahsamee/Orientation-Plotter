@@ -1,0 +1,3 @@
+[submodule "pystar"]
+	path = pystar
+	url = https://github.com/PlethoraChutney/pystar.git
