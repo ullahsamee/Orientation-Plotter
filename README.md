@@ -11,3 +11,6 @@ a sense of the true bias.
 Compare the two plots of the same data below:
 ![Emulated jet color scheme](jet_heatmap.png)
 ![Viridis color scheme](log_heatmap.png)
+
+Additionally, this script produces a polar representation of the data
+![Polar orientation heatmap](polar_heatmap.png)
